@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-testing-debugging",
+      "title": "Python Testing and Debugging",
+      "description": "Learn unit testing with pytest and debug Python code using assertions and fixes.",
+      "path": "assignments/python-testing-debugging",
+      "dueDate": "2026-07-30",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
